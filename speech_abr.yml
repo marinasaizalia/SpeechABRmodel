@@ -1,0 +1,41 @@
+name: speech_abr
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.10.14=0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.2=h0a44026_1
+  - pip=19.3.1=py27_0
+  - python=2.7.18=h47d645e_1
+  - readline=8.0=h1de35cc_0
+  - setuptools=44.0.0=py27_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - wheel=0.35.1=pyhd3eb1b0_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - backports-functools-lru-cache==1.6.1
+    - brian==1.4.3
+    - cochlea==2
+    - cycler==0.10.0
+    - cython==0.29.21
+    - kiwisolver==1.1.0
+    - matplotlib==2.2.5
+    - mpmath==1.1.0
+    - numexpr==2.7.1
+    - numpy==1.11.0
+    - pandas==0.22.0
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+    - pytz==2020.4
+    - scipy==1.2.3
+    - six==1.15.0
+    - subprocess32==3.5.4
+    - sympy==1.5.1
+    - tables==3.4.2
+    - thorns==0.7.2
+    - weave==0.17.0
+prefix: /Users/joanna/opt/anaconda3/envs/speech_abr3

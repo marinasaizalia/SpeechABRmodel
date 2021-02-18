@@ -1,0 +1,8 @@
+pandas==0.22.0
+cochlea
+weave==0.17
+matplotlib
+sympy
+tables==3.4.2
+thorns==0.7.2
+brian==1.4.3
